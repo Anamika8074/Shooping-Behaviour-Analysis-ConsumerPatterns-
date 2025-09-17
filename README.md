@@ -1,0 +1,1 @@
+# Shooping-Behaviour-Analysis-ConsumerPatterns-
