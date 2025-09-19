@@ -21,21 +21,21 @@ The notebook covers importing, cleaning, analyzing, and visualizing shopping dat
 ---
 ## project cover image
 
-![Project Cover](Pic0.png)  
+![Project Cover](Images/Pic0.png)  
 
 ## 📊 Sample Visualizations  
 
 ### 1. Share of Purchases by Category  
-![Pie Chart](Pic6.png)  
+![Pie Chart](Images/Pic6.png)  
 
 ### 2. Average Purchase by Category  
-![Bar Chart](Pic7.png)  
+![Bar Chart](Images/Pic7.png)  
 
 ### 3. Purchase Count by Subscription Status & Payment Method  
-![Payment Method](Pic3.png)  
+![Payment Method](Images/Pic3.png)  
 
 ### 4. Purchases by Item, Location, and Season  
-![Geo Plot](Pic10.png)  
+![Geo Plot](Images/Pic10.png)  
 
 ---
 
