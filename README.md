@@ -37,6 +37,17 @@ The notebook covers importing, cleaning, analyzing, and visualizing shopping dat
 ### 4. Purchases by Item, Location, and Season  
 ![Geo Plot](Images/Pic10.png)  
 
+### 5. Total Purchase Amount by Location
+![Bar Plot](Images/Pic1.png)  
+
+### 6. Number of Review Ratings by Gender
+![Bar Plot](Images/Pic2.png)  
+
+### 7. Correlation Heatmap
+![Heat map](Images/Pic8.png)  
+
+### 8. Purchase Count by Subscription Status and Payment Method
+![Bar Plot](Images/Pic3.png)  
 ---
 
 ## 🔧 Technologies Used
