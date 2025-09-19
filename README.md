@@ -19,7 +19,7 @@ The notebook covers importing, cleaning, analyzing, and visualizing shopping dat
 ✔ Insights on categories, payment methods, and seasonal trends  
 
 ---
-## project cover image
+## Project cover image
 
 ![Project Cover](Images/Pic0.png)  
 
@@ -46,8 +46,12 @@ The notebook covers importing, cleaning, analyzing, and visualizing shopping dat
 ### 7. Correlation Heatmap
 ![Heat map](Images/Pic8.png)  
 
-### 8. Purchase Count by Subscription Status and Payment Method
-![Bar Plot](Images/Pic3.png)  
+### 8. Number of Items per Category
+![Bar Plot](Images/Pic4.png)
+
+### 9. Share of Purchases by Gender
+![Pie Plot](Images/Pic5.png)
+
 ---
 
 ## 🔧 Technologies Used
